@@ -95,6 +95,39 @@ James 1,13-15(Jakuba)
 
 </details>
 
+### Salvation and hearing the gospell ordering
+
+Calvinism:
+<details>
+<summary>Show</summary>
+
+- God picked you
+- God regenerated you 
+- God put faith in your heart
+
+</details>
+
+Bible:
+<details>
+<summary>Romans 10,14-17</summary>
+
+    10:14
+    Jakże więc będą wzywać tego, w którego nie uwierzyli? 
+    A jak uwierzą w tego, o którym nie słyszeli? A jak 
+    usłyszą bez kaznodziei?
+    10:15
+    Jakże też będą głosić, jeśli nie zostaną posłani? Jak 
+    jest napisane: O jak piękne są nogi tych, którzy 
+    opowiadają pokój, tych, którzy opowiadają dobre rzeczy!
+    10:16
+    Ale nie wszyscy byli posłuszni ewangelii. Izajasz 
+    bowiem mówi: Panie, któż uwierzył naszemu głoszeniu?
+    10:17
+    Wiara więc jest ze słuchania, a słuchanie – przez 
+    słowo Boże.
+
+</details>
+
 ### John McArtur vs The Blood of Christ
 
 <details>
