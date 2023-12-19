@@ -5,7 +5,7 @@ Bible quotes vs Calvinism:
 <details>
 <summary>See the quote</summary>
 
-```
+<code>
 2:1
 Byli też fałszywi prorocy wśród ludu, jak i wśród was będą fałszywi nauczyciele, 
 którzy potajemnie wprowadzą herezje zatracenia, wypierając się Pana, który ich odkupił, 
@@ -71,7 +71,7 @@ którzy prawdziwie uciekli od żyjących w błędzie.
 2:19
 Wolność im obiecują, a sami są niewolnikami zepsucia. 
 Przez co bowiem jest ktoś pokonany, przez to też jest zniewolony.
-```
+</code>
 </details>
 
 
@@ -82,9 +82,9 @@ Przez co bowiem jest ktoś pokonany, przez to też jest zniewolony.
 Link: https://www.gty.org/library/sermons-library/80-44/The-Blood-of-Christ
 (in case it's lost use webtime machine)
 
-```
+<code>
 There are others who say that there’s something magical in the blood, there’s something in the blood itself that washes sin away, when the Scripture teaches it was the death of Christ that atoned for sin, and He shed His literal blood in sacrificial evidence of the pouring out of His life for sin. But there was >>nothing magic about that blood itself that could wash sin<<. And so, this heresy has begun to develop, strangely enough. 
-```
+</code>
 </details>
 
 
@@ -93,25 +93,25 @@ There are others who say that there’s something magical in the blood, there’
 
 #### Rzymian 3,24-25
 
-```
+<code>
 3:24
 A zostają usprawiedliwieni darmo, z jego łaski, przez odkupienie, które jest w Jezusie Chrystusie.
 3:25
 Jego to Bóg ustanowił przebłaganiem >>przez wiarę w jego krew<<, aby okazać swoją sprawiedliwość przez odpuszczenie, w swojej cierpliwości, przedtem popełnionych grzechów;
-```
+</code>
 
 #### 1 Jana 1,7
 
-```
+<code>
 1:7
 A jeśli chodzimy w światłości, tak jak on jest w światłości, mamy społeczność między sobą, a >>krew Jezusa Chrystusa, jego Syna, oczyszcza nas z wszelkiego grzechu<<.
-```
+</code>
 
 #### Hebrajczyków 9:22
 
-```
+<code>
 9:22
 I prawie wszystko jest oczyszczane krwią zgodnie z prawem, a >>bez przelania krwi nie ma przebaczenia grzechów.<<
-```
+</code>
 
 </details>
