@@ -1,6 +1,93 @@
 Bible quotes vs Calvinism:
 
-### 2 Piotra 1-19
+## Gospel
+
+### The Westminster Confession of Faith
+
+<details>
+<summary>Chapter X,1</summary>
+
+    All those whom God hath predestinated unto life, 
+    and those only, He is pleased, in
+    His appointed time, effectually to call, 
+    by His Word and Spirit, out of that state of sin and death, 
+    in which they are by nature to grace and salvation, by Jesus Christ;
+
+    enlightening their minds spiritually and savingly to understand the things of God,
+
+    taking away their heart of stone, and giving unto them an heart of flesh;renewing their wills, and, by His almighty power, 
+    determining them to that which is good
+
+<details>
+<summary>Summary of gospel</summary>
+
+- You are saved by spiritual enlightmeng and knowing things of God
+- God predestineted ONLY some people
+</details>
+
+</details>
+
+### Bible
+
+<details>
+<summary>1 Corintian 15,1-5</summary>    
+
+    15:1
+    A przypominam wam, bracia, ewangelię, którą wam zwiastowałem, którą też przyjęliście i w której trwacie,
+    15:2
+    I przez którą zbawieni jesteście, jeśli ją tylko zachowujecie tak, jak wam ją zwiastowałem, chyba że nadaremnie uwierzyliście.
+    15:3
+    Najpierw bowiem podałem wam to, co i ja przejąłem, że Chrystus umarł za grzechy nasze według Pism
+    15:4
+    I że został pogrzebany, i że dnia trzeciego został z martwych wzbudzony według Pism,
+
+</details>
+
+<details>
+<summary>Romans 3,23-25</summary>    
+
+    3:23
+    Gdyż wszyscy zgrzeszyli i brak im chwały Bożej,
+    3:24
+    I są usprawiedliwieni darmo, z łaski jego, przez odkupienie w Chrystusie Jezusie,
+    3:25
+    Którego Bóg ustanowił jako ofiarę przebłagalną przez krew jego, skuteczną 
+    przez wiarę, dla okazania sprawiedliwości swojej przez to, że w cierpliwości 
+    Bożej pobłażliwie odniósł się do przedtem popełnionych grzechów,
+
+</details>
+
+<details>
+<summary>1 Timothy 2,4-5 </summary>    
+
+    2:4
+    Który chce, aby wszyscy ludzie byli zbawieni i doszli do poznania prawdy.
+    2:5
+    Albowiem jeden jest Bóg, jeden też pośrednik między Bogiem a ludźmi, człowiek Chrystus Jezus,
+
+</details>
+
+#### What Bible sais about that?
+
+<details>
+<summary>Galatians 1,6-9 </summary>
+
+    1:6
+    Dziwię się, że tak prędko dajecie się odwieść od tego, który was powołał w łasce 
+    Chrystusowej do innej ewangelii,
+    1:7
+    Chociaż innej nie ma; są tylko pewni ludzie, którzy was niepokoją i chcą 
+    przekręcić ewangelię Chrystusową.
+    1:8
+    Ale choćbyśmy nawet my albo anioł z nieba zwiastował wam ewangelię odmienną od tej, 
+    którą myśmy wam zwiastowali, niech będzie przeklęty!
+    1:9
+    Jak powiedzieliśmy przedtem, tak i teraz znowu mówię: Jeśli wam ktoś zwiastuje 
+    ewangelię odmienną od tej, którą przyjęliście, niech będzie przeklęty!
+
+</details>
+
+#### 2 Piotra 1-19
 
 <details>
 <summary>See the quote</summary>
@@ -73,7 +160,7 @@ Bible quotes vs Calvinism:
 </details>
 
 
-### Logical consequnces
+## Logical consequnces
 
 If God controls us... then he is also responsible for our sins(he commitet them)
 
@@ -95,7 +182,7 @@ James 1,13-15(Jakuba)
 
 </details>
 
-### Salvation and hearing the gospell ordering
+## Salvation and hearing the gospell ordering
 
 Calvinism:
 <details>
