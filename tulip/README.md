@@ -19,6 +19,8 @@ I'm not an expert, I might be totally wrong, I'm just curiouse Bible Believing, 
 
 I know that people might hold different positions and ideas, and so one. My goal is just to clarify some approaches a bit.
 
+I've strive to choose moderate pastors(No any IFB)
+
 I think it's benefitial to make your own mind about some topics, that's why it's benefitial to know both sides about some topic. Since I think you might have encountered one side, this is to provide another one.
 
 I believe you can make up your own mind, and decide for yourself.
