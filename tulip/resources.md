@@ -62,14 +62,14 @@ Same as about in a little bit different approach(about 18m)
 
 <br>
 
-### Bit longer version(1h 14m), Bible Thinker 
+### Bit longer version(1h 14m), Bible Thinker <- Strong recomandation
 
 [Why I Think Calvinism Is Unbiblical](https://www.youtube.com/watch?v=2i8AzjxwhSU)
 
 <br>
 
 ### Ex calvinist detailed view
-Very long extensive version(ex calvinist), a lot of Bible verses and introduction to terminology an calvinistic mindset.
+Very long extensive version(ex calvinist), a lot of Bible verses and introduction to terminology and the calvinistic mindset.
 
 Why I don't believe calvinism anymore, [playlist](https://www.youtube.com/watch?v=4KkIM_ZX1P8&list=PL_zUR_mg7hKUsw6OB0fJtNM0aeQ6ycefX)
 
@@ -78,3 +78,26 @@ Why I don't believe calvinism anymore, [playlist](https://www.youtube.com/watch?
 - 1h 25m - [Part 3/5](https://www.youtube.com/watch?v=8Qc-qQ4OpuI)
 - 1h 55m - [Part 4/5](https://www.youtube.com/watch?v=ljA9TamKhZA)
 - 1h 47m - [Part 5/5](https://www.youtube.com/watch?v=O5J_8-g7YZs) 
+
+
+### Guy on the other side of the fance
+
+I still consider this guy a vary moderate one
+
+> Covenant Theology is part of the Reformed view(Calvinism + more doctirne)
+
+19m - [Dispensationalism Vs. Covenant Theology](https://www.youtube.com/watch?v=Q5E1FA5kCFk)
+
+
+### Another source form the other side of the fance
+
+I left him for last since he uses a little more harsh words(still christian)
+
+14m - [Dangers of Calvinism: Doctrines of Diminishment](https://www.youtube.com/watch?v=KCbOFiEOAGE)
+
+Entry about the gospel in Reformed View, taken from the Westminster Confession of Faith, there is the newer confession of faith, yet the part related to salvation didn't change.
+This can be checked at provided side by side view.
+
+48m - [The Gnostic Gospel of Calvinism in the Westminster Confession of Faith](https://www.youtube.com/watch?v=hwm35T5jLJU)
+
+26m - [Christian Apostacy & Cults: Calvinism, Mormons, Jehovah's Witnesses](https://www.youtube.com/watch?v=bm1UAoDohf0)
