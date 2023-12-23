@@ -13,7 +13,7 @@ Polish, English and Russian
 
 - Polish - UWG(Uwspółcześniona Biblia Gdańska)
 - English - KJV(King James Version)
-- Russian
+- Russian - RUSV(Russian Synodal Version, not sure if this is good one, prefer non catholic/non east ortodox translation)
 
 All of those can be found here:
 [Bible gateway](https://www.biblegateway.com/)
@@ -25,36 +25,71 @@ In every video now there is possbility to use autotranslation feature, for examp
 Here is instruction how to turn it on:
 
 <details>
-<summary>How to turn on autotranslation - Visual Instruction</summary>
+<summary>How to turn on autotranslation - Visual Instruction - CLICK ME</summary>
 
 1. Go to the video, example [Consciousness and Language Acquisition](https://www.youtube.com/watch?v=2i8AzjxwhSU)
 
 2. Click on the gear icon
 
-![Image 1](images/1-russian-subtitles.png)
+![Image 1](images/yt-translation/1-russian-subtitles.png)
 
 3. Click on Subtitles(you need to have annotations turned on)
 
-![Image 2](images/2-russian-subtitles.png)
+![Image 2](images/yt-translation/2-russian-subtitles.png)
 
 4. Enable english autotranslated
 
 (this opens autotranslation form more languages)
 
-![Image 3](images/3-russian-subtitles.png)
+![Image 3](images/yt-translation/3-russian-subtitles.png)
 
 5. Go back to the same place, gear icon -> subtitles, this time there should be autotranslate option, click it
 
-![Image 4](images/4-russian-subtitles.png)
+![Image 4](images/yt-translation/4-russian-subtitles.png)
 
 6. Pick language to autotranslate(eg: Russian)
 
-![Image 5](images/5-russian-subtitles.png)
+![Image 5](images/yt-translation/5-russian-subtitles.png)
 
 7. Enjoy video with autotranslated language
 
 (translation is not perfect but good enough)
 
-![Image 6](images/6-russian-subtitles.png)
+![Image 6](images/yt-translation/6-russian-subtitles.png)
+
+</details>
+
+<br>
+
+<details>
+<summary>Autotranslate web pages - CLICK ME</summary>
+
+All this instruction applies to chrome browser only
+
+1. Go to any wab page/provided link
+2. Click small translate icon in address bar
+
+![Image 1](images/wp-translation/1-chrome.png)
+
+3. Click 3 dots on right side(to find more languages than english)
+
+![Image 2](images/wp-translation/2-chrome.png)
+
+4. Click 'Choose another language'
+
+![Image 3](images/wp-translation/3-chrome.png)
+
+5. Click on the 'English' and you should see more options, click the language you want to translate to
+
+![Image 4](images/wp-translation/4-chrome.png)
+
+6. To approve translation, click translate
+   
+![Image 5](images/wp-translation/5-chrome.png)
+
+7. Enjoy translated webpage
+
+![Image 6](images/wp-translation/6-chrome.png)
+
 
 </details>
