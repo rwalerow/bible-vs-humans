@@ -15,6 +15,10 @@ You can either:
 
 ### From my side
 
+I'm not an expert, I might be totally wrong, I'm just curiouse Bible Believing, Saved By Grace Christian.
+
+I know that people might hold different positions and ideas, and so one. My goal is just to clarify some approaches a bit.
+
 I think it's benefitial to make your own mind about some topics, that's why it's benefitial to know both sides about some topic. Since I think you might have encountered one side, this is to provide another one.
 
 I believe you can make up your own mind, and decide for yourself.
@@ -40,7 +44,9 @@ I encourage to pray before investigation, ask Holy Spirit and God for guidiance 
 
 I encourage to read the Bible, if somebody gives quotes of the Bible to go there, and read by yourselve.
 
-I engourage to read quote in context, reading a little bit before(4-5 verses, and 3-4 afterwards) to figure out if someounes interpretation makes sance, or is it out of context
+I encourage to read quote in context, reading a little bit before(4-5 verses, and 3-4 afterwards) to figure out if someounes interpretation makes sance, or is it out of context.
+
+I encourage to ask Holy Ghost and yourself... is this Biblical?
 
 
 Thats why: If I'll qoute something(small part) I will also provide link to the Bible with wider context.
@@ -97,6 +103,12 @@ All this instruction applies to chrome browser only
 2. Click small translate icon in address bar
 
 ![Image 1](images/wp-translation/1-chrome.png)
+
+In case when webpage is in english icon might be missing!
+
+In that case right click in any empty space in the webpage and click tanslate to ....
+
+![!Image 7](images/wp-translation/7-chorme.png)
 
 3. Click 3 dots on right side(to find more languages than english)
 
