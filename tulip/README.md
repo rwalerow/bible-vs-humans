@@ -31,30 +31,30 @@ Here is instruction how to turn it on:
 
 2. Click on the gear icon
 
-[Image 1](images/1-russian-subtitles.png)
+![Image 1](images/1-russian-subtitles.png)
 
 3. Click on Subtitles(you need to have annotations turned on)
 
-[Image 2](images/2-russian-subtitles.png)
+![Image 2](images/2-russian-subtitles.png)
 
 4. Enable english autotranslated
 
 (this opens autotranslation form more languages)
 
-[Image 3](images/3-russian-subtitles.png)
+![Image 3](images/3-russian-subtitles.png)
 
 5. Go back to the same place, gear icon -> subtitles, this time there should be autotranslate option, click it
 
-[Image 4](images/4-russian-subtitles.png)
+![Image 4](images/4-russian-subtitles.png)
 
 6. Pick language to autotranslate(eg: Russian)
 
-[Image 5](images/5-russian-subtitles.png)
+![Image 5](images/5-russian-subtitles.png)
 
 7. Enjoy video with autotranslated language
 
 (translation is not perfect but good enough)
 
-[Image 6](images/6-russian-subtitles.png)
+![Image 6](images/6-russian-subtitles.png)
 
 </details>
