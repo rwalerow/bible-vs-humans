@@ -5,8 +5,22 @@ As explination of how I see stuff and what I think, and as a help and resource t
 
 # How to use this?
 
+### How can you approach this?
+
+In this folder you hava all resources I would like to use in markdown files, they are easy to open and read in the browser.
+
+You can either:
+- Go over tuplit points one by one(I number the files for convinience)
+- Go directly to the resources.md and watch/read with autotranslate option
+
+### From my side
+
+I think it's benefitial to make your own mind about some topics, that's why it's benefitial to know both sides about some topic. Since I think you might have encountered one side, this is to provide another one.
+
+I believe you can make up your own mind, and decide for yourself.
+
 I'll try to privide all kind of resources in 3 languages
-Polish, English and Russian
+Polish, English and Russian. If it's not possible I also provided instruction how to autotranslate either webpage or youtube video.
 
 
 ### Every place I'll quote from 3 Bibles
@@ -18,7 +32,20 @@ Polish, English and Russian
 All of those can be found here:
 [Bible gateway](https://www.biblegateway.com/)
 
-### How to use video?
+### What is my advise?
+
+I strongly encourage you to investiage yourself, to look into stuff by yourself, first yourself read think about it then ask questions and see if makes sense. 
+
+I encourage to pray before investigation, ask Holy Spirit and God for guidiance and to discover things of God, not of man. 
+
+I encourage to read the Bible, if somebody gives quotes of the Bible to go there, and read by yourselve.
+
+I engourage to read quote in context, reading a little bit before(4-5 verses, and 3-4 afterwards) to figure out if someounes interpretation makes sance, or is it out of context
+
+
+Thats why: If I'll qoute something(small part) I will also provide link to the Bible with wider context.
+
+# (Translation) How to use videos and english material?
 
 In every video now there is possbility to use autotranslation feature, for example: to Russian subtitles.
 
