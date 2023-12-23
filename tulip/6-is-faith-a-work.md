@@ -8,6 +8,60 @@ Canvinist point of view considers that faith is a gift(as the outcome of regener
 
 Canvinist point of view teaches if I on my own Believe that Jesus Christe shed His Precious on the Cross of Calvariy for me and then ressurected, and I see myself as a sinner needing savior and I trus in him(I put my faith in him), that would be considered work.
 
+<details>
+<summary>Russian</summary>
+Канвинистская точка зрения учит, что если я сам верю в то, что Иисус Христос пролил за меня Свою драгоценность на Голгофском кресте, а затем воскрес, и вижу себя грешником, нуждающимся в Спасителе, и верю в Него (возлагаю на Него свою веру), то это будет считаться работой.
+</details>
+
+This part it's gonna be a little technical:( sorry for that
+
+<details>
+<summary>Monergism & Synergism</summary>
+
+<details>
+<summary>English</summary>
+
+![Monergism and Synergism](images/monergism-vs-sinergism.png)
+</details>
+
+<details>
+<summary>Russian</summary>
+
+    Доктрина оправдания только верой обсуждалась во время 
+    Реформации на более глубоком уровне монергического 
+    возрождения. Этот технический термин необходимо 
+    объяснить. Монергизм происходит от сочетания приставки 
+    и корня. Приставка mono часто используется в 
+    английском языке для обозначения того, что является 
+    единственным или одиноким. Корень roo происходит от 
+    глагола to work. Корень monorgy пришел в наш язык для 
+    обозначения единицы работы или энергии. Когда мы 
+    соединяем приставку и корень, получается monergy или 
+    monergism.
+
+    Монергизм означает, что что-то действует само по себе 
+    или работает в одиночку как единственная активная 
+    сторона. Монергизм противоположен синергизму. 
+    Синергизм имеет общий корень с монергизмом, но у него 
+    другая приставка. Приставка syn происходит от 
+    греческого слова, означающего "с". Синергизм - это 
+    совместное предприятие, совместная работа двух или более сторон.
+</details>
+
+    Long story short: Monergism (only one party does all of the work)
+    Synergism two partis participate
+
+    [Russian]
+    Краткая история: монергизм (только одна партия выполняет всю работу)
+    Синергизм - участвуют две стороны
+
+
+Calvinist say that if you believed(you made a choise) -> you did some work(look below how scripture defines faith as distinct from work)
+
+[Russian] Кальвинисты говорят, что если вы уверовали (сделали выбор) -> вы совершили определенную работу(посмотрите ниже, как Писание определяет веру в отличие от работы)
+
+
+</details>
 
 # The Bible
 

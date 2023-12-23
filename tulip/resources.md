@@ -42,6 +42,12 @@ Notes:
 
 ## Issue with Calvinism
 
+### Moderate version(1h 14m), Bible Thinker <- Strong recomandation
+
+[Why I Think Calvinism Is Unbiblical](https://www.youtube.com/watch?v=2i8AzjxwhSU)
+
+<br>
+
 
 ### Frank Turek short answers:
 
@@ -59,12 +65,6 @@ Notes:
 
 Same as about in a little bit different approach(about 18m)
 [Calvinism, Arminianism, & Provisionism Defined](https://www.youtube.com/watch?v=prfSlHNBRsk)
-
-<br>
-
-### Bit longer version(1h 14m), Bible Thinker <- Strong recomandation
-
-[Why I Think Calvinism Is Unbiblical](https://www.youtube.com/watch?v=2i8AzjxwhSU)
 
 <br>
 
