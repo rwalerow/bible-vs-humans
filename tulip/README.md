@@ -1,7 +1,43 @@
 # Why did I prepare this?
 
-As explination of how I see stuff and what I think, and as a help and resource to think on your own time and on your own pase
+As explination of how I see stuff and what I think, and as a help and resource to think on your own time and on your own pase.
 
+Bible motivation:
+
+<details>
+<summary>John 5,39</summary>
+
+[English](https://www.biblegateway.com/passage/?search=John+5%3A39&version=KJV)  
+
+[Russian](https://www.biblegateway.com/passage/?search=John+5%3A39&version=RUSV)   
+
+[Polish](https://www.biblegateway.com/passage/?search=John+5%3A39&version=UBG)    
+
+> As a Christin I should Search the scriptures
+
+</details>
+
+<details>
+<summary>2 Timothy 3:16-17</summary>
+
+[English](https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=KJV)  
+[Russian](https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=RUSV)   
+[Polish](https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=UBG)    
+
+> All the Bible is good for doctrine and correction
+
+</details>
+
+<details>
+<summary>2 Timothy 2:15</summary>
+
+[English](https://www.biblegateway.com/passage/?search=2+Timothy+2%3A15&version=KJV)  
+[Russian](https://www.biblegateway.com/passage/?search=2+Timothy+2%3A15&version=RUSV)   
+[Polish](https://www.biblegateway.com/passage/?search=2+Timothy+2%3A15&version=UBG)
+
+> I should study or put an effort
+
+</details>
 
 # How to use this?
 
