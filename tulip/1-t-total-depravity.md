@@ -1,5 +1,65 @@
 ## Definition
 
+From the calvinistic source:
+[Charles Spurgeon on Calvinism — Total Depravity](https://www.ligonier.org/learn/articles/charles-spurgeon-calvinism-total-depravity)
+
+Take a deeper look into this part
+
+    The result, he said, is that “a very hell of 
+    corruption lies within the best saint.” Spurgeon 
+    recognized that sin lies deep within the souls of even 
+    the best of men. This inward corruption makes every 
+    man a savage beast: “There is no beast in wolf or lion 
+    or serpent that is so brutish as the beast in man.” 
+    All people are spiritually dead, unable to see, 
+    desire, > or respond to the gospel message. <
+
+<details>
+<summary>Russian</summary>
+
+    В результате, по его словам, "в самом лучшем святом 
+    скрывается адская порочность". Сперджен признавал, что 
+    грех лежит глубоко в душах даже самых лучших людей. 
+    Эта внутренняя порча превращает каждого человека в 
+    дикого зверя: "Нет зверя ни в волке, ни во льве, ни в 
+    змее, который был бы так зол, как зверь в человеке". 
+    Все люди духовно мертвы, они не способны видеть, 
+    желать, > или реагировать на Евангельскую весть. <
+
+</details>
+
+
+And also into this part:
+
+    By this statement, Spurgeon affirmed that the 
+    volitional capacity of sinful man is paralyzed, 
+    leaving him -> incapable of responding to the free 
+    offer of Christ. <-
+
+    Consequently, Spurgeon resisted the notion of human 
+    free will. He contended that such an idea elevates man 
+    to the place reserved for God alone: “Free-will 
+    doctrine—what does it? It magnifies man into God.
+
+<details>
+<summary>Russian</summary>
+
+    Этим заявлением Сперджен утверждал, что волевые 
+    способности грешного человека парализованы, что делает 
+    его -> неспособным откликнуться на свободное 
+    предложение Христа. <-
+
+    Следовательно, Сперджен противился понятию 
+    человеческой свободной воли. Он утверждал, что такая 
+    идея возвышает человека до места, предназначенного 
+    только для Бога: "Доктрина свободной воли - что она 
+    делает? Она возвышает человека до Бога.
+
+</details>
+
+
+#### Definition
+
 <details>
 <summary>English</summary>
 
@@ -19,6 +79,7 @@
     as Mark 7:21-23, Romans 6:20, and 1 Corinthians 2:14. 
 
 </details>
+
 
 <details>
 <summary>Russian</summary>
