@@ -2,7 +2,12 @@
 # List of all resources
 
 
+## Calvinism vs Bible
 
+#### Bible believer teacher -> strong in Bible, RECOMMENDATION, If you want to watch only one thing go wit this one
+Верующий в Библию учитель -> силен в Библии, РЕКОМЕНДАЦИЯ, Если вы хотите посмотреть только одну вещь, обратите внимание на эту
+
+1h3m - [Why I am not a Calvinist!](https://www.youtube.com/watch?v=q1mKtq1BBDA)
 
 ## Calvinism vs Armanianism
 
@@ -48,6 +53,17 @@ Notes:
 
 <br>
 
+### Fallacies, consequences
+Ошибки, последствия
+
+--- STRONG RECOMANDATION ---
+
+25m - [The BEST Argument Against Calvinism w/ Dr. Braxton Hunter](https://www.youtube.com/watch?v=JJWIWv69D_0)
+
+--- STRONG RECOMANDATION ---
+
+Text -[Arguments against Calvinism and Predestination](https://people.cs.ksu.edu/~bbp9857/calvinism.html)
+
 
 ### Frank Turek short answers:
 
@@ -90,6 +106,9 @@ I still consider this guy a vary moderate one
 
 
 ### Another source form the other side of the fance
+
+
+<br>
 
 I left him for last since he uses a little more harsh words(still christian)
 
