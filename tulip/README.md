@@ -41,6 +41,9 @@ Bible motivation:
 
 # How to use this?
 
+### If you want to spend minimal amount of time:
+1h3m - [Robert Breaker, pastor](https://www.youtube.com/watch?v=q1mKtq1BBDA)
+
 ### How can you approach this?
 
 In this folder you hava all resources I would like to use in markdown files, they are easy to open and read in the browser.
