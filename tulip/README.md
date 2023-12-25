@@ -5,6 +5,21 @@ As explination of how I see stuff and what I think, and as a help and resource t
 Bible motivation:
 
 <details>
+<summary>Mark 8:35-36</summary>
+
+[English](https://www.biblegateway.com/passage/?search=Mark+8%3A35-36&version=KJV)  
+
+[Russian](https://www.biblegateway.com/passage/?search=Mark+8%3A35-36&version=RUSV)   
+
+[Polish](https://www.biblegateway.com/passage/?search=Mark+8%3A35-36&version=UBG)    
+
+> I suspect I might loose something for the Gosples sake, I'm willing to do that
+> 
+> Я подозреваю, что могу что-то потерять ради Евангелия, но я готов к этому.
+</details>
+
+
+<details>
 <summary>John 5,39</summary>
 
 [English](https://www.biblegateway.com/passage/?search=John+5%3A39&version=KJV)  
@@ -13,7 +28,10 @@ Bible motivation:
 
 [Polish](https://www.biblegateway.com/passage/?search=John+5%3A39&version=UBG)    
 
-> As a Christin I should Search the scriptures
+> As a Christian I should Search the scriptures
+> 
+>Как христианин я должен искать в Писании
+
 
 </details>
 
@@ -25,6 +43,8 @@ Bible motivation:
 [Polish](https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=UBG)    
 
 > All the Bible is good for doctrine and correction
+>
+> Вся Библия полезна для учения и исправления
 
 </details>
 
@@ -35,7 +55,9 @@ Bible motivation:
 [Russian](https://www.biblegateway.com/passage/?search=2+Timothy+2%3A15&version=RUSV)   
 [Polish](https://www.biblegateway.com/passage/?search=2+Timothy+2%3A15&version=UBG)
 
-> I should study or put an effort
+> I should study the Word of God or put an effort into it
+>
+> Я должен изучать Слово Божье или прилагать к этому усилия
 
 </details>
 
