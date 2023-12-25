@@ -1,4 +1,115 @@
-## Definition
+## What does the Bible say
+
+Yes we are sinners and we are dead in our traspasses
+
+<details>
+<summary>Romans 3,23</summary>
+
+[English](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=KJV)  
+
+[Russian](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=RUSV)   
+
+[Polish](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=UBG)    
+
+</details>
+
+
+<details>
+<summary>Ephesians 2,1</summary>
+
+[English](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1&version=KJV)  
+
+[Russian](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1&version=RUSV)   
+
+[Polish](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1&version=UBG)    
+
+</details>
+
+
+    Note that calvinistic thinking adds, that spiritually 
+    dead people are TOTALLY UNABLE to believe the gospel 
+    even when preached to them unless God regenerates them 
+    first
+
+    [Russian]
+    Обратите внимание, что кальвинистское мышление 
+    добавляет, что духовно мертвые люди совершенно не 
+    способны поверить в Евангелие, даже когда оно им 
+    проповедуется, если Бог не возродит их сначала
+
+
+### Did the fall bring total inability?
+Привело ли падение к полной неспособности
+
+
+#### Did the God deal with Kain as he was totally deprived?
+
+Разобрался ли бог с Каином, когда тот был полностью лишен сил?
+
+<details>
+<summary>Genesis 4,3-5</summary>
+
+Why did God tell Kain to rule over his sin?
+
+[English](https://www.biblegateway.com/passage/?search=Genesis+4%3A5-8&version=KJV)  
+
+[Russian](https://www.biblegateway.com/passage/?search=Genesis+4%3A5-8&version=RUSV)   
+
+No genesis in polish version :(
+
+</details>
+
+
+<details>
+<summary>Hebrews 11,5</summary>
+
+Enoch pleased God but he was never regenerated!
+Енох угодил Богу, но он так и не был возрожден!
+
+[English](https://www.biblegateway.com/passage/?search=Hebrews+11%3A5&version=KJV)  
+[English with context](https://www.biblegateway.com/passage/?search=Hebrews+11%3A4-9&version=KJV)
+
+[Russian](https://www.biblegateway.com/passage/?search=Hebrews+11%3A5&version=RUSV)   
+[Russian with context](https://www.biblegateway.com/passage/?search=Hebrews+11%3A4-9&version=RUSV)
+
+[Polish](https://www.biblegateway.com/passage/?search=Hebrews+11%3A5&version=UBG)    
+[Polish with context](https://www.biblegateway.com/passage/?search=Hebrews+11%3A4-9&version=UBG)
+
+</details>
+
+<details>
+<summary>John 5,24</summary>
+
+Question: If total inability is true then, did jesus mock people around him?
+
+Вопрос: Если полная неспособность - это правда, то насмехался ли Иисус над окружающими его людьми?
+
+[English](https://www.biblegateway.com/passage/?search=John+5%3A24&version=KJV)  
+
+[Russian](https://www.biblegateway.com/passage/?search=John+5%3A24&version=RUSV)   
+
+[Polish](https://www.biblegateway.com/passage/?search=John+5%3A24&version=UBG)    
+</details>
+
+
+<details>
+<summary>Leviticus 22:18-23</summary>
+
+Question: If there is no freewill how can they offer freewill offerings?
+
+Вопрос: Если нет свободы воли, как они могут предлагать свободные приношения?
+
+[English](https://www.biblegateway.com/passage/?search=Leviticus+22%3A18-23&version=KJV) 
+
+[Russian](https://www.biblegateway.com/passage/?search=Leviticus+22%3A18-23&version=RUSV)   
+
+[Polish](http://biblia-online.pl/Biblia/UwspolczesnionaBibliaGdanska/Ksiega-Kaplanska/22/18)   
+
+</details>
+
+
+
+## Calvinistic Definition
 
 From the calvinistic source:
 [Charles Spurgeon on Calvinism — Total Depravity](https://www.ligonier.org/learn/articles/charles-spurgeon-calvinism-total-depravity)
@@ -105,95 +216,14 @@ And also into this part:
 </details>
 
 
-## What does the Bible say
+## Short video explination, story
+Короткое видео-объяснение, рассказ
 
-Yes we are sinners and we are dead in our traspasses
-
-<details>
-<summary>Romans 3,23</summary>
-
-[English](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=KJV)  
-
-[Russian](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=RUSV)   
-
-[Polish](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=UBG)    
-
-</details>
-
+1m - [God loves us so he give us free will](https://www.youtube.com/shorts/OBBxf7yhPmA)
 
 <details>
-<summary>Ephesians 2,1</summary>
+<summary>Sad conclusion(after watching)</summary>
+If we have to will to freely accept God then this is not love since love have to be freely given. You can't force somebody to love you.
 
-[English](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1&version=KJV)  
-
-[Russian](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1&version=RUSV)   
-
-[Polish](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1&version=UBG)    
-
-</details>
-
-
-    Note that calvinistic thinking adds, that spiritually 
-    dead people are TOTALLY UNABLE to believe the gospel 
-    even when preached to them unless God regenerates them 
-    first
-
-    [Russian]
-    Обратите внимание, что кальвинистское мышление 
-    добавляет, что духовно мертвые люди совершенно не 
-    способны поверить в Евангелие, даже когда оно им 
-    проповедуется, если Бог не возродит их сначала
-
-
-### Did the fall bring total inability?
-Привело ли падение к полной неспособности
-
-
-#### Did the God deal with Kain as he was totally deprived?
-
-Разобрался ли бог с Каином, когда тот был полностью лишен сил?
-
-<details>
-<summary>Genesis 4,3-5</summary>
-
-Why did God tell Kain to rule over his sin?
-
-[English](https://www.biblegateway.com/passage/?search=Genesis+4%3A5-8&version=KJV)  
-
-[Russian](https://www.biblegateway.com/passage/?search=Genesis+4%3A5-8&version=RUSV)   
-
-No genesis in polish version :(
-
-</details>
-
-
-<details>
-<summary>Hebrews 11,5</summary>
-
-Enoch pleased God but he was never regenerated!
-Енох угодил Богу, но он так и не был возрожден!
-
-[English](https://www.biblegateway.com/passage/?search=Hebrews+11%3A5&version=KJV)  
-[English with context](https://www.biblegateway.com/passage/?search=Hebrews+11%3A4-9&version=KJV)
-
-[Russian](https://www.biblegateway.com/passage/?search=Hebrews+11%3A5&version=RUSV)   
-[Russian with context](https://www.biblegateway.com/passage/?search=Hebrews+11%3A4-9&version=RUSV)
-
-[Polish](https://www.biblegateway.com/passage/?search=Hebrews+11%3A5&version=UBG)    
-[Polish with context](https://www.biblegateway.com/passage/?search=Hebrews+11%3A4-9&version=UBG)
-
-</details>
-
-<details>
-<summary>John 5,24</summary>
-
-Question: If total inability is true then, did jesus mock people around him?
-
-Вопрос: Если полная неспособность - это правда, то насмехался ли Иисус над окружающими его людьми?
-
-[English](https://www.biblegateway.com/passage/?search=John+5%3A24&version=KJV)  
-
-[Russian](https://www.biblegateway.com/passage/?search=John+5%3A24&version=RUSV)   
-
-[Polish](https://www.biblegateway.com/passage/?search=John+5%3A24&version=UBG)    
+Если мы должны волей-неволей принять Бога, то это не любовь, поскольку любовь должна быть свободно дана. Вы не можете заставить кого-то любить вас.
 </details>
