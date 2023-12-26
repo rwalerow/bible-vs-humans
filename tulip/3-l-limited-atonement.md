@@ -165,6 +165,17 @@ Question: For whom Jesus died, elect?
 </details>
 
 
+<br>
+
+<details>
+<summary>My conclusion, can skip</summary>
+
+Bible teaches that Jesus death and sarcrefice on the cross is available to EVERYONE who is willing to accept it. There are no exceptions, even the most imporal people in the world have this option.
+
+Библия учит, что смерть и наказание Иисуса на кресте доступны КАЖДОМУ, кто готов принять их. Исключений нет, даже самые безнравственные люди в мире имеют такую возможность.
+
+</details>
+
 
 ## Calivinism
 
