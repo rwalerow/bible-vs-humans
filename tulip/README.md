@@ -1,6 +1,15 @@
 # Why did I prepare this?
 
-As explination of how I see stuff and what I think, and as a help and resource to think on your own time and on your own pase.
+As an explanation of how I see stuff and what I think, and as a help and resource to think on your own time and at your own pace. 
+<details>
+<summary>Russian translation</summary>
+
+Как объяснение того, как я вижу вещи и 
+что я думаю, и как помощь и ресурс, чтобы 
+думать в свое собственное время и в своем 
+собственном темпе.
+
+</details>
 
 Bible motivation:
 
@@ -68,26 +77,75 @@ Bible motivation:
 
 ### How can you approach this?
 
-In this folder you hava all resources I would like to use in markdown files, they are easy to open and read in the browser.
+In this folder you have all the resources I would like to use in markdown files, they are easy to open and read in the browser.
 
 You can either:
-- Go over tuplit points one by one(I number the files for convinience)
-- Go directly to the resources.md and watch/read with autotranslate option
+- Go over tuplit points one by one(I number the files for convenience)
+- Go directly to the resources.md and watch/read with auto translate option
+
+<details>
+<summary>Russian translation</summary>
+
+В этой папке находятся все ресурсы, которые я хотел бы использовать в файлах в формате markdown, их легко открыть и прочитать в браузере.
+
+Вы можете либо:
+- Пройтись по пунктам туплита один за другим (я пронумеровал файлы для удобства)
+- Перейти непосредственно к файлу resources.md и смотреть/читать с опцией автоперевода
+
+</details>
 
 ### From my side
 
-I'm not an expert, I might be totally wrong, I'm just curiouse Bible Believing, Saved By Grace Christian.
+<details>
+<summary>Russian translation</summary>
 
-I know that people might hold different positions and ideas, and so one. My goal is just to clarify some approaches a bit.
+Я не эксперт, я могу ошибаться, я просто любопытный 
+верующий в Библию, спасенный по благодати христианин.
 
-I've strive to choose moderate pastors(No any IFB)
+Я знаю, что люди могут придерживаться разных позиций, идей 
+и так далее. Моя цель - просто немного прояснить некоторые 
+подходы.
 
-I think it's benefitial to make your own mind about some topics, that's why it's benefitial to know both sides about some topic. Since I think you might have encountered one side, this is to provide another one.
+Я старался выбирать умеренных пасторов.
 
-I believe you can make up your own mind, and decide for yourself.
+Я думаю, что полезно иметь собственное мнение по некоторым 
+вопросам, поэтому полезно знать обе стороны по некоторым 
+темам. Поскольку я думаю, что вы, возможно, сталкивались с 
+одной стороной, я хочу представить вам другую.
 
-I'll try to privide all kind of resources in 3 languages
-Polish, English and Russian. If it's not possible I also provided instruction how to autotranslate either webpage or youtube video.
+Я считаю, что вы можете сами принять решение и решить для 
+себя.
+
+Я постараюсь предоставить всевозможные ресурсы на трех 
+языках
+польском, английском и русском. Если это невозможно, я 
+также предоставил инструкции по автопереводу веб-страницы 
+или видео на YouTube.
+
+</details>
+
+I'm not an expert, I might be wrong, I'm just curious 
+Bible Believing, Saved By Grace Christian.
+
+I know that people might hold different positions and 
+ideas, and so on. My goal is just to clarify some 
+approaches a bit.
+
+I've strived to choose moderate pastors
+
+I think it's beneficial to make up your own mind about 
+some topics, that's why it's good to know both sides about 
+some topics. Since I think you might have encountered one 
+side, this is to provide another one.
+
+I believe you can make up your own mind, and decide for 
+yourself.
+
+I'll try to provide all kinds of resources in 3 languages
+Polish, English, and Russian. If it's not possible I also 
+provided instructions on how to autotranslate either a 
+webpage or a YouTube video.
+
 
 
 ### Every place I'll quote from 3 Bibles
@@ -101,27 +159,111 @@ All of those can be found here:
 
 ### What is my advise?
 
-I strongly encourage you to investiage yourself, to look into stuff by yourself, first yourself read think about it then ask questions and see if makes sense. 
+<details>
+<summary>Russian translation</summary>
 
-I encourage to pray before investigation, ask Holy Spirit and God for guidiance and to discover things of God, not of man. 
+Я настоятельно рекомендую вам проводить самостоятельные 
+исследования, изучать материал самостоятельно, сначала 
+читать, думать об этом, затем задавать вопросы и смотреть, 
+есть ли в этом смысл. 
 
-I encourage to read the Bible, if somebody gives quotes of the Bible to go there, and read by yourselve.
+Я призываю вас молиться перед исследованием, просить 
+Святого Духа и Бога о руководстве и открывать для себя 
+вещи Божьи, а не человеческие. 
 
-I encourage to read quote in context, reading a little bit before(4-5 verses, and 3-4 afterwards) to figure out if someounes interpretation makes sance, or is it out of context.
+Я призываю вас читать Библию, если кто-то приводит цитаты 
+из Библии, идите туда и читайте сами.
 
-I encourage to ask Holy Ghost and yourself... is this Biblical?
+Я призываю вас читать цитаты в контексте, читая немного до 
+(4-5 стихов и 3-4 после), чтобы понять, имеет ли чья-то 
+интерпретация смысл, или она вырвана из контекста.
 
+Я призываю вас спросить Святого Духа и себя... библейское 
+ли это толкование?
 
-Thats why: If I'll qoute something(small part) I will also provide link to the Bible with wider context.
+Вот почему: Если я цитирую что-то (небольшую часть), я 
+также стараюсь дать ссылку на Библию с более широким 
+контекстом.
+
+</details>
+
+I strongly encourage you to investigate yourself, to look 
+into stuff by yourself, first read think about it then ask 
+questions and see if makes sense. 
+
+I encourage you to pray before investigation, ask Holy 
+Spirit and God for guidance and to discover things of God, 
+not of man. 
+
+I encourage you to read the Bible, if somebody gives 
+quotes from the Bible go there, and read by yourself.
+
+I encourage you to read a quote in context, reading a 
+little bit before(4-5 verses, and 3-4 afterward) to figure 
+out if someone's interpretation makes sense, or is it out 
+of context.
+
+I encourage you to ask the Holy Ghost and yourself... is 
+this Biblical?
+
+That's why: If I quote something(small part) I will also 
+strive to provide a link to the Bible with wider context.
 
 # (Translation) How to use videos and english material?
 
-In every video now there is possbility to use autotranslation feature, for example: to Russian subtitles.
+<details>
+<summary>Russian translation</summary>
+
+В большинстве видеороликов сейчас есть возможность 
+использовать функцию автоперевода, например: на русские 
+субтитры.
+
+Ниже приведена инструкция по ее включению:
+
+</details>
+
+In most videos now there is possbility to use 
+autotranslation feature, for example: to Russian subtitles.
 
 Here is instruction how to turn it on:
 
 <details>
 <summary>How to turn on autotranslation - Visual Instruction - CLICK ME</summary>
+
+<details>
+<summary>Russian translation</summary>
+
+1. Перейдите к видео, пример [Consciousness and Language Acquisition](https://www.youtube.com/watch?v=2i8AzjxwhSU)
+
+2. Нажмите на значок шестеренки
+
+![Изображение 1](images/yt-translation/1-russian-subtitles.png)
+
+3. Нажмите на субтитры (у вас должны быть включены аннотации)
+
+![Изображение 2](images/yt-translation/2-russian-subtitles.png)
+
+4. Включите автоперевод на английский
+
+(это открывает возможность автоперевода на другие языки)
+
+![Изображение 3](images/yt-translation/3-russian-subtitles.png)
+
+5. Вернитесь на то же место, значок шестеренки -> субтитры, на этот раз там должна быть опция автоперевода, нажмите ее
+
+![Изображение 4](images/yt-translation/4-russian-subtitles.png)
+
+6. Выберите язык для автоперевода (например, русский)
+
+![Изображение 5](images/yt-translation/5-russian-subtitles.png)
+
+7. Наслаждайтесь видео с автопереводом
+
+(перевод не идеальный, но достаточно хороший)
+
+![Изображение 6](images/yt-translation/6-russian-subtitles.png)
+
+</details>
 
 1. Go to the video, example [Consciousness and Language Acquisition](https://www.youtube.com/watch?v=2i8AzjxwhSU)
 
@@ -161,6 +303,44 @@ Here is instruction how to turn it on:
 <summary>Autotranslate web pages - CLICK ME</summary>
 
 All this instruction applies to chrome browser only
+
+Все эти инструкции относятся только к браузеру chrome
+
+<details>
+<summary>Russian translation</summary>
+
+1. Перейдите на любую страницу wab/предоставленную ссылку
+2. Нажмите на маленький значок перевода в адресной строке
+
+![Изображение 1](images/wp-translation/1-chrome.png)
+
+В случае, если веб-страница на английском языке, значок может отсутствовать!
+
+В этом случае щелкните правой кнопкой мыши на любом пустом месте веб-страницы и нажмите tanslate to .....
+
+![!Изображение 7](images/wp-translation/7-chorme.png)
+
+3. Нажмите на 3 точки справа (чтобы найти другие языки, кроме английского)
+
+![Изображение 2](images/wp-translation/2-chrome.png)
+
+4. Нажмите "Выбрать другой язык
+
+![Изображение 3](images/wp-translation/3-chrome.png)
+
+5. Нажмите на "Английский", и у вас появится больше вариантов, выберите язык, на который вы хотите перевести
+
+![Изображение 4](images/wp-translation/4-chrome.png)
+
+6. Чтобы утвердить перевод, нажмите кнопку перевести
+   
+![Изображение 5](images/wp-translation/5-chrome.png)
+
+7. Наслаждайтесь переведенной веб-страницей
+
+![Изображение 6](images/wp-translation/6-chrome.png)
+
+</details>
 
 1. Go to any wab page/provided link
 2. Click small translate icon in address bar
