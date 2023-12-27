@@ -5,10 +5,23 @@
 <details>
 <summary>Ephesian 2,8-9</summary>
 
+Question: What actually saves? How to get that gift? 
+Is faith in the same category as works?
+
+Вопрос: Что на самом деле спасает? Как получить этот дар? 
+Находится ли вера в одной категории с делами?
+
+<details>
+
+<summary>My response</summary>
+
 #### Important note! 
+
 Salvation is a gift, not faith. We get this gift by faith.
 
 [Russian]Спасение - это дар, а не вера. Мы получаем этот дар по вере.
+
+</details>
 
 
 [English](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=KJV)  
@@ -26,10 +39,19 @@ Salvation is a gift, not faith. We get this gift by faith.
 <details>
 <summary>Romans 11,6</summary>
 
+Question: How does grace and works mix? Are thay seens as the same category? 
+
+Вопрос: Как сочетаются благодать и дела? Рассматриваются ли они как одна и та же категория?
+
+<details>
+
+<summary>My response</summary>
 #### Important note
 Notice that faith and works are 2 different categories that can't be in no way mixed
 
 [Russian] Обратите внимание, что вера и дела - это две разные категории, которые ни в коем случае нельзя смешивать.
+
+</details>
 
 [English](https://www.biblegateway.com/passage/?search=Romans+11%3A6&version=KJV)  
 [English with context](https://www.biblegateway.com/passage/?search=Romans+11%3A3-9&version=KJV)
