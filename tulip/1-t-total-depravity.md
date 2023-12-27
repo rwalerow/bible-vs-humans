@@ -1,43 +1,5 @@
 ## What does the Bible say
 
-Yes we are sinners and we are dead in our traspasses
-
-<details>
-<summary>Romans 3,23</summary>
-
-[English](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=KJV)  
-
-[Russian](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=RUSV)   
-
-[Polish](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=UBG)    
-
-</details>
-
-
-<details>
-<summary>Ephesians 2,1</summary>
-
-[English](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1&version=KJV)  
-
-[Russian](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1&version=RUSV)   
-
-[Polish](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1&version=UBG)    
-
-</details>
-
-
-    Note that calvinistic thinking adds, that spiritually 
-    dead people are TOTALLY UNABLE to believe the gospel 
-    even when preached to them unless God regenerates them 
-    first
-
-    [Russian]
-    Обратите внимание, что кальвинистское мышление 
-    добавляет, что духовно мертвые люди совершенно не 
-    способны поверить в Евангелие, даже когда оно им 
-    проповедуется, если Бог не возродит их сначала
-
-
 ### Did the fall bring total inability?
 Привело ли падение к полной неспособности
 
@@ -107,7 +69,52 @@ Question: If there is no freewill how can they offer freewill offerings?
 
 </details>
 
+### What does the Bible say about depravity
+Что Библия говорит о развращении
 
+Yes, we are sinners and we are dead in our trespasses
+
+Да, мы грешники и мертвы в своих преступлениях.
+
+<details>
+<summary>Romans 3,23</summary>
+
+[English](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=KJV)  
+
+[Russian](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=RUSV)   
+
+[Polish](https://www.biblegateway.com/passage/?search=Romans+3%3A23&version=UBG)    
+
+</details>
+
+
+<details>
+<summary>Ephesians 2,1</summary>
+
+[English](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1&version=KJV)  
+
+[Russian](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1&version=RUSV)   
+
+[Polish](https://www.biblegateway.com/passage/?search=Ephesians+2%3A1&version=UBG)    
+
+</details>
+
+<details>
+<summary>Important distinction</summary>
+
+
+    Note that calvinistic thinking adds, that spiritually 
+    dead people are TOTALLY UNABLE to believe the gospel 
+    even when preached to them unless God regenerates them 
+    first
+
+    [Russian]
+    Обратите внимание, что кальвинистское мышление 
+    добавляет, что духовно мертвые люди совершенно не 
+    способны поверить в Евангелие, даже когда оно им 
+    проповедуется, если Бог не возродит их сначала
+
+</details>
 
 ## Calvinistic Definition
 
@@ -116,6 +123,11 @@ From the calvinistic source:
 
 Take a deeper look into this part
 
+
+<details>
+<summary>English</summary>
+
+
     The result, he said, is that “a very hell of 
     corruption lies within the best saint.” Spurgeon 
     recognized that sin lies deep within the souls of even 
@@ -123,7 +135,9 @@ Take a deeper look into this part
     man a savage beast: “There is no beast in wolf or lion 
     or serpent that is so brutish as the beast in man.” 
     All people are spiritually dead, unable to see, 
-    desire, > or respond to the gospel message. <
+    desire, > or respond to the gospel message. <details
+
+</details>
 
 <details>
 <summary>Russian</summary>
@@ -142,6 +156,11 @@ Take a deeper look into this part
 
 And also into this part:
 
+
+<details>
+<summary>English</summary>
+
+
     By this statement, Spurgeon affirmed that the 
     volitional capacity of sinful man is paralyzed, 
     leaving him -> incapable of responding to the free 
@@ -151,6 +170,8 @@ And also into this part:
     free will. He contended that such an idea elevates man 
     to the place reserved for God alone: “Free-will 
     doctrine—what does it? It magnifies man into God.
+
+</details>
 
 <details>
 <summary>Russian</summary>
@@ -216,14 +237,20 @@ And also into this part:
 </details>
 
 
-## Short video explination, story
-Короткое видео-объяснение, рассказ
+## The lack of free will can lead to unfortunate consequences
+Отсутствие свободы воли может привести к печальным последствиям
 
 1m - [God loves us so he give us free will](https://www.youtube.com/shorts/OBBxf7yhPmA)
 
 <details>
 <summary>Sad conclusion(after watching)</summary>
-If we have to will to freely accept God then this is not love since love have to be freely given. You can't force somebody to love you.
+If we have to will to freely accept God then this is not 
+love since love has to be freely given. You can't force 
+somebody to love you.
 
-Если мы должны волей-неволей принять Бога, то это не любовь, поскольку любовь должна быть свободно дана. Вы не можете заставить кого-то любить вас.
+<br>
+
+Если мы должны волей-неволей принять Бога, то это не 
+любовь, поскольку любовь должна быть свободно дана. Вы не 
+можете заставить кого-то любить вас.
 </details>
