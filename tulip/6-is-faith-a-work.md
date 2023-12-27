@@ -11,18 +11,6 @@ Is faith in the same category as works?
 Вопрос: Что на самом деле спасает? Как получить этот дар? 
 Находится ли вера в одной категории с делами?
 
-<details>
-
-<summary>My response</summary>
-
-#### Important note! 
-
-Salvation is a gift, not faith. We get this gift by faith.
-
-[Russian]Спасение - это дар, а не вера. Мы получаем этот дар по вере.
-
-</details>
-
 
 [English](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=KJV)  
 [English with context](https://www.biblegateway.com/passage/?search=Ephesians+2%3A5-11&version=KJV)
@@ -32,6 +20,18 @@ Salvation is a gift, not faith. We get this gift by faith.
 
 [Polish](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=UBG)    
 [Polish with context](https://www.biblegateway.com/passage/?search=Ephesians+2%3A5-11&version=UBG)
+
+<details>
+
+<summary>My response</summary>
+
+#### Important note! 
+
+Salvation is a gift, not faith. We get this gift by faith. Can anyone force you to accept a gift?
+
+[Russian]Спасение - это дар, а не вера. Мы получаем этот дар по вере. Может ли кто-нибудь заставить вас принять дар?
+
+</details>
 
 </details>
 
@@ -43,16 +43,6 @@ Question: How does grace and works mix? Are thay seens as the same category?
 
 Вопрос: Как сочетаются благодать и дела? Рассматриваются ли они как одна и та же категория?
 
-<details>
-
-<summary>My response</summary>
-#### Important note
-Notice that faith and works are 2 different categories that can't be in no way mixed
-
-[Russian] Обратите внимание, что вера и дела - это две разные категории, которые ни в коем случае нельзя смешивать.
-
-</details>
-
 [English](https://www.biblegateway.com/passage/?search=Romans+11%3A6&version=KJV)  
 [English with context](https://www.biblegateway.com/passage/?search=Romans+11%3A3-9&version=KJV)
 
@@ -61,6 +51,17 @@ Notice that faith and works are 2 different categories that can't be in no way m
 
 [Polish](https://www.biblegateway.com/passage/?search=Romans+11%3A6&version=UBG)    
 [Polish with context](https://www.biblegateway.com/passage/?search=Romans+11%3A3-9&version=UBG)
+
+<details>
+
+<summary>My response</summary>
+
+#### Important note
+Notice that faith and works are 2 different categories that can't be in no way mixed
+
+[Russian] Обратите внимание, что вера и дела - это две разные категории, которые ни в коем случае нельзя смешивать.
+
+</details>
 
 </details>
 
@@ -136,11 +137,19 @@ Read carefully, what's the interaction between faith and grace?
 
 # Calivinistic approach
 
-Why to enen ask this question?
+Why even ask this question?
+
+Зачем вообще задавать этот вопрос?
+
+<details>
+<summary>English</summary>
 
 Canvinist point of view considers that faith is a gift(as the outcome of regeneration, gift given by holy spirit)
 [Link](https://www.ligonier.org/learn/qas/is-faith-a-work) 
 Where the Bible defines faith as base for salvation and act of free will
+
+</details>
+
 <details>
 <summary>Russian</summary>
 Канвинистская точка зрения считает, что вера - это дар (как результат возрождения, дар, данный святым духом)
@@ -148,18 +157,46 @@ Where the Bible defines faith as base for salvation and act of free will
 Где Библия определяет веру как основу для спасения и акт свободной воли
 </details>
 
+<br>
 
-Canvinist point of view teaches if I on my own Believe that Jesus Christe shed His Precious on the Cross of Calvariy for me and then ressurected, and I see myself as a sinner needing savior and I trus in him(I put my faith in him), that would be considered work.
+<details>
+<summary>Work according to Calvinism</summary>
+<br>
+
+    Calvinist point of view teaches if I on my own Believe
+    (I've made that choice) that Jesus Christe shed His 
+    Precious on the Cross of Calvary for me(and for 
+    everybody else, without exceptions) and then 
+    resurrected, and I see myself as a sinner needing a 
+    savior and I trust in him(I put my faith in him), that 
+    would be considered work.
+
 
 <details>
 <summary>Russian</summary>
-Канвинистская точка зрения учит, что если я сам верю в то, что Иисус Христос пролил за меня Свою драгоценность на Голгофском кресте, а затем воскрес, и вижу себя грешником, нуждающимся в Спасителе, и верю в Него (возлагаю на Него свою веру), то это будет считаться работой.
+
+    Кальвинистская точка зрения учит, что если я сам верю 
+    (я сделал этот выбор) в то, что Иисус Христос пролил 
+    за меня (и за всех остальных без исключения) Свою 
+    драгоценность на Голгофском кресте, а затем воскрес, и 
+    я вижу себя грешником, нуждающимся в Спасителе, и 
+    доверяю Ему (я возлагаю на Него свою веру), то это будет считаться работой.
 </details>
+
+</details>
+
+<br>
 
 This part it's gonna be a little technical:( sorry for that
 
+Эта часть будет немного технической:( извините за это
+
 <details>
 <summary>Monergism & Synergism</summary>
+
+<br>
+
+#### Definition
 
 <details>
 <summary>English</summary>
@@ -191,17 +228,23 @@ This part it's gonna be a little technical:( sorry for that
     совместное предприятие, совместная работа двух или более сторон.
 </details>
 
-    Long story short: Monergism (only one party does all of the work)
+<details>
+<summary>Short version</summary>
+
+    Long story short: Monergism (only one party does all 
+    of the work)
     Synergism two partis participate
 
     [Russian]
-    Краткая история: монергизм (только одна партия выполняет всю работу)
+    Краткая история: монергизм (только одна партия 
+    выполняет всю работу)
     Синергизм - участвуют две стороны
 
 
-Calvinist say that if you believed(you made a choise) -> you did some work(look below how scripture defines faith as distinct from work)
+Calvinists say that if you believed(you made a choice) -> you did some work(look above how scripture defines faith as distinct from work)
 
-[Russian] Кальвинисты говорят, что если вы уверовали (сделали выбор) -> вы совершили определенную работу(посмотрите ниже, как Писание определяет веру в отличие от работы)
+[Russian] Кальвинисты говорят, что если вы поверили (сделали выбор) -> вы совершили какую-то работу (посмотрите выше, как Писание определяет веру в отличие от работы)
+</details>
 
 
 </details>
