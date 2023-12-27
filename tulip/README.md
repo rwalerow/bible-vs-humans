@@ -1,6 +1,5 @@
 # Why did I prepare this?
 
-As an explanation of how I see stuff and what I think, and as a help and resource to think on your own time and at your own pace. 
 <details>
 <summary>Russian translation</summary>
 
@@ -10,6 +9,9 @@ As an explanation of how I see stuff and what I think, and as a help and resourc
 собственном темпе.
 
 </details>
+
+As an explanation of how I see stuff and what I think, and as a help and resource to think on your own time and at your own pace. 
+
 
 Bible motivation:
 
@@ -72,16 +74,10 @@ Bible motivation:
 
 # How to use this?
 
-### If you want to spend minimal amount of time:
+### If you want to spend a minimal amount of time:
 1h3m - [Robert Breaker, pastor](https://www.youtube.com/watch?v=q1mKtq1BBDA)
 
 ### How can you approach this?
-
-In this folder you have all the resources I would like to use in markdown files, they are easy to open and read in the browser.
-
-You can either:
-- Go over tuplit points one by one(I number the files for convenience)
-- Go directly to the resources.md and watch/read with auto translate option
 
 <details>
 <summary>Russian translation</summary>
@@ -93,6 +89,13 @@ You can either:
 - Перейти непосредственно к файлу resources.md и смотреть/читать с опцией автоперевода
 
 </details>
+
+In this folder you have all the resources I would like to use in markdown files, they are easy to open and read in the browser.
+
+You can either:
+- Go over tuplit points one by one(I number the files for convenience)
+- Go directly to the resources.md and watch/read with auto translate option
+
 
 ### From my side
 
