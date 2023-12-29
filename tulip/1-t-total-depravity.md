@@ -21,6 +21,25 @@ No genesis in polish version :(
 
 </details>
 
+Satan had to blind already blind people?
+
+Сатана должен был ослепить и без того слепых людей?
+
+<details>
+<summary>2 Corinthians 4:4</summary>
+
+[English](https://www.biblegateway.com/passage/?search=2+Corinthians+4%3A4&version=KJV)  
+[English with context]()
+
+[Russian](https://www.biblegateway.com/passage/?search=2+Corinthians+4%3A4&version=RUSV)   
+[Russian with context]()
+
+[Polish](https://www.biblegateway.com/passage/?search=2+Corinthians+4%3A4&version=UBG)    
+[Polish with context]()
+
+</details>
+
+
 
 <details>
 <summary>Hebrews 11,5</summary>
