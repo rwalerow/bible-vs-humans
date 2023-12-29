@@ -21,6 +21,23 @@ willing to lose something in order to protect it.
 какие-то различия, я должен донести это до людей и быть 
 готовым потерять что-то, чтобы защитить это.
 
+## Logical consequences for the gospel: 
+
+<details>
+<summary>John 14:6</summary>
+
+[English](https://www.biblegateway.com/passage/?search=John+14%3A6&version=KJV)  
+
+[Russian](https://www.biblegateway.com/passage/?search=john+14%3A6&version=RUSV)   
+
+[Polish](https://www.biblegateway.com/passage/?search=john+14%3A6&version=UBG)    
+
+</details>
+
+If calvinism is true the election is what saves and the election is what gives life! Not Jesus, so God lied.
+
+Если кальвинизм верен, то избрание спасает, а избрание дает жизнь! Не Иисус, значит, Бог солгал.
+
 
 ## For who the gospell is for?
 [Russian]Для кого предназначено Евангелие
@@ -308,3 +325,5 @@ salvation.
 том, что происходит с нами в отношении нашего спасения.
 
 </details>
+
+
