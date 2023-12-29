@@ -24,7 +24,7 @@ From this material:
 
 <details>
 
-<summary>Conclusions</summary>
+<summary>Conclusions with</summary>
 
 <br>
 
@@ -44,6 +44,13 @@ Notes:
 
 
 </details>
+
+## Issue with Calvin
+
+He killed people because of differences of belief 
+
+Он убивал людей из-за различий в убеждениях.
+[Article](https://www.reenactingtheway.com/blog/john-calvin-had-people-killed-and-bad-bible-interpretation-justified-it)
 
 ## Issue with Calvinism
 
@@ -84,6 +91,11 @@ Same as about in a little bit different approach(about 18m)
 
 <br>
 
+### Channel dedicated to compare the Bible and Calvinistic theology
+
+[Soteriology101](https://www.youtube.com/@Soteriology101)
+
+
 ### Ex calvinist detailed view
 Very long extensive version(ex calvinist), a lot of Bible verses and introduction to terminology and the calvinistic mindset.
 
@@ -92,8 +104,8 @@ Why I don't believe calvinism anymore, [playlist](https://www.youtube.com/watch?
 - 1h 22m - [Part 1/5](https://www.youtube.com/watch?v=4KkIM_ZX1P8)
 - 1h 05m - [Part 2/5](https://www.youtube.com/watch?v=WMZhcj62E0Y) 
 - 1h 25m - [Part 3/5](https://www.youtube.com/watch?v=8Qc-qQ4OpuI)
-- 1h 55m - [Part 4/5](https://www.youtube.com/watch?v=ljA9TamKhZA)
-- 1h 47m - [Part 5/5](https://www.youtube.com/watch?v=O5J_8-g7YZs) 
+- 1h 55m(I think this one can be skipped) - [Part 4/5](https://www.youtube.com/watch?v=ljA9TamKhZA)
+- 1h 47m(very eye opening) - [Part 5/5](https://www.youtube.com/watch?v=O5J_8-g7YZs) 
 
 
 ### Guy on the other side of the fance
@@ -120,3 +132,7 @@ This can be checked at provided side by side view.
 48m - [The Gnostic Gospel of Calvinism in the Westminster Confession of Faith](https://www.youtube.com/watch?v=hwm35T5jLJU)
 
 26m - [Christian Apostacy & Cults: Calvinism, Mormons, Jehovah's Witnesses](https://www.youtube.com/watch?v=bm1UAoDohf0)
+
+### Awesome apologetic christian channel
+
+[CrossExamined](https://www.youtube.com/@CrossExamined)
