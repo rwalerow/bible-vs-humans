@@ -24,7 +24,7 @@ From this material:
 
 <details>
 
-<summary>Conclusions with</summary>
+<summary>Conclusions with extended resources</summary>
 
 <br>
 
