@@ -9,6 +9,10 @@
 
 1h3m - [Why I am not a Calvinist!](https://www.youtube.com/watch?v=q1mKtq1BBDA)
 
+## Bible preaching 
+
+40m - [Salvation is a Chois & Calvinism is a Lie](https://www.youtube.com/watch?v=N2HPr0WgGFA)
+
 ## Calvinism vs Armanianism
 
 That's not that important, yet it can give a picture of what is going on. This is debate from Luther time from reformation itself.
